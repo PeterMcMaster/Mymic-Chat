@@ -17,6 +17,6 @@ A custom chatbot trained on my personal texting history to mimic my texting styl
 
 ```bash
 git clone https://github.com/PeterMcMaster/Mymic-Chat.git
-cd mymic-chatbot
+cd Mymic-Chat
 pip install -r requirements.txt
 python app.py
